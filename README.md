@@ -107,25 +107,9 @@ tree
 - Required Libraries:
   - `pandas`, `numpy`, `seaborn`, `scikit-learn`, `xgboost`, `lightgbm`
 
-### Steps
-1. Clone the repository:
+- Clone the repository:
    ```bash
-   git clone https://github.com/username/project-name.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebooks:
-   - Open `EDA-For-ML.ipynb` to review the EDA and ML process.
-   - Use `expline.ipynb` for detailed explanations of methods and steps.
-4. Train and save models:
-   ```bash
-   python train_models.py
-   ```
-5. Evaluate results:
-   ```bash
-   python evaluate.py
+   git clone https://github.com/ManaSaleh/From-EDA-to-ML.git
    ```
 
 ---
